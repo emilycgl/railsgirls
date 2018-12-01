@@ -22,4 +22,5 @@ th { border-bottom: 1px solid #DDD; }
 .navbar-default { background-image: linear-gradient(to bottom, #ffffff 0%, #ADC0F0 100%)}
 a:hover {background: transparent; color: darkblue;}
 a.new-link {color: black}
-a.new-link:hover {color: pink}
+a.new-link:hover {color: #C31694}
+a.new-link {background-color: grey}
